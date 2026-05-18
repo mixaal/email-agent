@@ -1,0 +1,7 @@
+{
+  "language": "rust",
+  "max_depth": 4,
+  "max_files": 5000,
+  "name": "email-tool",
+  "size": "large"
+}
